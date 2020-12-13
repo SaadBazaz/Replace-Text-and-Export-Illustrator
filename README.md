@@ -19,7 +19,7 @@ For Adobe Illustrator (tested on 2021).
 - Whitelabeled graphics
 
 ## ToDo 
-Make this script generic, so it can replace text with {{curly braces}} from CSVs.
-
+- Make this script generic, so it can replace text with {{curly braces}} from CSVs.
+- Make a better [input form](https://community.adobe.com/t5/photoshop/dialog-box-with-input-text/td-p/10161326?page=1)
 ## Notes
 Please feel free to use this script as you wish and don't forget to send a Pull requests if you make any improvements.
