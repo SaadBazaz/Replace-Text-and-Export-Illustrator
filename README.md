@@ -2,8 +2,8 @@
 For Adobe Illustrator (tested on 2021).
 
 ## How to use
-1. Open the certificate template in Illustrator
-2. Rename the TextField which should contain the participant's name, to "Name"
+1. Open the template which you want to bulk export, in Illustrator
+2. Use "Name" wherever you want to replace text
 3. Download the "Replacer.js" script
 4. Open Illustrator, File -> Scripts -> Other Script...
 5. A dialog box will open. Open the script which you downloaded in Step 4.
